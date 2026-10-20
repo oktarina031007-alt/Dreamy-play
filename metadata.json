@@ -1,0 +1,6 @@
+{
+  "name": "DREAMY PLAY",
+  "description": "Play, Laugh, and Discover! Game fantasi interaktif yang lucu, kreatif, dan seru bersama boneka kelinci bertudung ungu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
